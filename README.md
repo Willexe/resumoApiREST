@@ -52,7 +52,7 @@ Os códigos de status HTTP são divididos em cinco categorias, cada categoria é
   
 Os códigos de status HTTP são essenciais para a compreensão dos resultados de uma solicitação e são amplamente utilizados no desenvolvimento web para depurar e diagnosticar problemas de comunicação entre clientes e servidores.
 
-Autor do resumo: William Barbosa de Souza - 01506070
+**Autor do resumo: William Barbosa de Souza - 01506070**
 
 
 
